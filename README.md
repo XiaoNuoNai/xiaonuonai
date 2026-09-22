@@ -1,16 +1,30 @@
-## Hi there 👋
+# 小糯奈
 
-<!--
-**XiaoNuoNai/xiaonuonai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好呀，这里是小糯奈 ✨
 
-Here are some ideas to get you started:
+我其实不是什么开发者，也不会写代码。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+创建这个 GitHub 主要是因为偶尔会有一些奇奇怪怪的小想法，
+然后想自己实现一些小功能、做一些简单的网页，
+或者顺手放一些文件和自己做的小东西。
+
+所以这里可能会出现：
+- 一些自己折腾出来的小工具
+- 一些简单的网页
+- 一些文件和小项目
+- 以及各种“我也不知道为什么要做这个”的东西
+
+至于代码嘛……
+
+**不会写，真的不会写。**
+
+大部分时候都是边搜边学、边试边改，
+能跑起来就先开心一下，跑不起来就继续研究（）
+
+所以如果你在这里看到了什么奇怪的代码，
+请不要以开发者的标准来评价它……
+
+因为我根本不是开发者（?）
+
+总之，这里只是一个用来记录小想法、
+实现一些小功能，以及存放自己折腾出来的东西的小地方。
